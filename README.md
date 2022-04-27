@@ -10,5 +10,5 @@ Download all the files to recreate the project in Unity or just the .zip folder 
 
 Controls: 
 
-Player move - Left and Right Arrow 
+Player move - Left and Right Arrow/ 
 Player shoot - Space bar
